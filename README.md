@@ -1,4 +1,16 @@
-🌟 Hi, I’m Mayank Raj Srivastava
+<h1 align="center">🔥 Welcome to My GitHub — IAMMRAS 🔥</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Competitive+Programmer;150%2B+DSA+Problems+Solved;LeetCode+%7C+CodeChef+%7C+HackerRank;Building+Real+World+Projects+Everyday;Welcome+to+my+Developer+World+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Competitive%20Programmer-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Loves%20Java%20%26%20Python-yellow?style=for-the-badge" />
+</p>
+
 
 Competitive Programmer | Full-Stack Developer | ML Learner | Physics Enthusiast
 
