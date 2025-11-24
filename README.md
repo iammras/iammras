@@ -59,6 +59,10 @@ CodeChef
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammras&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=iammras&theme=tokyonight)
 
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
+
 
 🌐 Connect With Me
 
