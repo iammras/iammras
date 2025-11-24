@@ -112,8 +112,9 @@ Goal: Become a strong competitive programmer and a full-stack + ML developer.
 
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/iammras/iammras/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/iammras/iammras/output/github-contribution-grid-snake.svg"/>
 </p>
+
 
 ---
 
