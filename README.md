@@ -75,17 +75,6 @@ My goal: Become a powerful **full-stack + ML developer** and a **strong competit
   <img src="https://img.shields.io/badge/Linux-black?logo=linux" />
 </p>
 
----
-
-## ✨ Animated Tech Icons  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/html.gif" width="70" />
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/css.gif" width="70" />
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/js.gif" width="70" />
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/python.gif" width="70" />
-</p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png" width="90%"></p>
 
 ---
 
