@@ -1,14 +1,16 @@
 <h1 align="center">🔥 Welcome to My GitHub — IAMMRAS 🔥</h1>
 
+<!-- Animated Rocket -->
 <p align="center">
   <img src="https://i.gifer.com/origin/43/43555b4c4b0f22e1cba4f6ffba7d5c86.gif" width="200" />
 </p>
 
-
+<!-- Fire Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/fire.gif" width="200">
 </p>
 
+<!-- Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%7C+Competitive+Programmer;Machine+Learning+and+DSA+Enthusiast;150%2B+DSA+Problems+Solved;Building+Projects+%7C+Learning+Daily;Welcome+to+My+Developer+Universe+🚀" />
 </p>
@@ -18,18 +20,20 @@
 ---
 
 ## 👨‍💻 About Me  
-I love solving challenging problems, building real-world applications, and improving every single day.  
-Goal: Become a strong competitive programmer and a full-stack + ML developer.
+I love solving challenging problems, building real-world applications, and leveling up every day.  
+My goal: Become a powerful **full-stack + ML developer** and a **strong competitive programmer**.
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png" width="90%"></p>
 
 ---
 
 ## 🚀 What I Do  
-- 💡 Competitive Programming on **CodeChef & LeetCode**  
-- 🌐 Full Stack Dev — **Node.js, Express.js, React, MySQL**  
-- ⚡ Real-Time Apps using **Socket.IO**  
-- 🤖 Machine Learning with Python  
-- 🏗 Working long-term on **Section B Social Platform**  
-- 📘 Improving DSA (DP, Graphs, Trees, Maths)
+- 💡 Competitive Programming on **LeetCode & CodeChef**  
+- 🌐 Full Stack Development — **React, Node.js, Express.js, MySQL**  
+- ⚡ Real-Time Web Apps using **Socket.IO**  
+- 🤖 ML & Python Development  
+- 🏗 Building big projects like **Section B Social Platform**  
+- 📘 Mastering DSA — DP, Graphs, Trees, Mathematics
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%"></p>
 
@@ -49,7 +53,7 @@ Goal: Become a strong competitive programmer and a full-stack + ML developer.
 ### 💻 Languages  
 <p align="center">
   <img src="https://img.shields.io/badge/Java-orange?logo=java" />
-  <img src="https://img.shields.io/badge/C++-blue?logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/Python-yellow?logo=python" />
   <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript" />
 </p>
@@ -61,7 +65,7 @@ Goal: Become a strong competitive programmer and a full-stack + ML developer.
   <img src="https://img.shields.io/badge/React-black?logo=react" />
 </p>
 
-### 🛠 Backend  
+### 🛠️ Backend  
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-green?logo=node.js" />
   <img src="https://img.shields.io/badge/Express.js-black?logo=express" />
@@ -90,7 +94,7 @@ Goal: Become a strong competitive programmer and a full-stack + ML developer.
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/python.gif" width="70" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png" width="90%"></p>
 
 ---
 
@@ -118,4 +122,7 @@ Goal: Become a strong competitive programmer and a full-stack + ML developer.
 ## 🌐 Connect With Me  
 📧 **Email:** *mayankrajsrivastava09@gmail.com*
 
-<h3 align="center">✨ Thanks for visiting — Keep Coding & Keep Growing! ✨</h3>
+<h3 align="center">✨ Thanks for Visiting — Keep Coding & Keep Growing! ✨</h3>
+
+<p align="center">
+  <img
