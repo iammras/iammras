@@ -2,7 +2,7 @@
 
 <!-- Animated Rocket -->
 <p align="center">
-  <img src="https://i.gifer.com/origin/43/43555b4c4b0f22e1cba4f6ffba7d5c86.gif" width="200" />
+  <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/main/src/rocket.gif" width="200">
 </p>
 
 <!-- Fire Animation -->
