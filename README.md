@@ -12,8 +12,6 @@
 </p>
 
 
-Competitive Programmer | Full-Stack Developer | ML Learner | Physics Enthusiast
-
 I love solving challenging problems, building real-world projects, and learning something new every day.
 Aspiring to become one of the strongest competitive programmers and a powerful full-stack + ML developer.
 
