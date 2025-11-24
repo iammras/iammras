@@ -80,7 +80,7 @@ My goal: Become a powerful **full-stack + ML developer** and a **strong competit
 
 ## 📱 Coding Profiles  
 <p align="center">
-  <a href="https://leetcode.com/u/cipherstrom01/">
+  <a href="https://leetcode.com/u/iammras/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/foxiy">
