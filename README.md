@@ -52,7 +52,7 @@ Practicing DSA topics like DP, Graphs, Trees, and Mathematics
 ![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 
-##⭐ 📱 Coding Profiles
+⭐ 📱 Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/cipherstrom01/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/foxiy)
 
