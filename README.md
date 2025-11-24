@@ -1,14 +1,5 @@
 <h1 align="center">🔥 Welcome to My GitHub — IAMMRAS 🔥</h1>
 
-<!-- Animated Rocket -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/main/src/rocket.gif" width="200">
-</p>
-
-<!-- Fire Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/fire.gif" width="200">
-</p>
 
 <!-- Typing Intro -->
 <p align="center">
@@ -23,7 +14,7 @@
 I love solving challenging problems, building real-world applications, and leveling up every day.  
 My goal: Become a powerful **full-stack + ML developer** and a **strong competitive programmer**.
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png" width="90%"></p>
+
 
 ---
 
