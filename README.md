@@ -55,10 +55,9 @@ CodeChef
 
 🔗 https://www.codechef.com/users/foxiy
 
-
 ![IAMMRAS GitHub Stats](https://github-readme-stats.vercel.app/api?username=iammras&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammras01&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=iammras1&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammras&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=iammras&theme=tokyonight)
 
 
 🌐 Connect With Me
