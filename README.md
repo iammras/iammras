@@ -1,37 +1,66 @@
-## Hi there 👋
- I’m Mayank Raj Srivastava
+🌟 Hi, I’m Mayank Raj Srivastava
 
-Competitive Programmer | Full-Stack Developer | ML Learner | Physics Lover
+Competitive Programmer | Full-Stack Developer | ML Learner | Physics Enthusiast
 
-I love creating things, solving challenging problems, and learning every single day.
-My goal is to become one of the strongest competitive programmers and a complete full-stack + ML developer.
+I love solving challenging problems, building real-world projects, and learning something new every day.
+Aspiring to become one of the strongest competitive programmers and a powerful full-stack + ML developer.
 
 🚀 What I Do
 
-Competitive programming on Codechef
+Competitive programming on  CodeChef & LeetCode
 
-Building full-stack projects with Node.js, Express & MySQL
+Full-stack development using Node.js, Express.js & MySQL
 
-Learning Machine Learning with Python
+Real-time apps using Socket.IO
 
-Working on personal projects like Section B 
+Machine Learning with Python
 
-Improving DSA skills daily (DP, Graphs, Trees, Math)
-<!--
-**iammras/iammras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Working on long-term projects like Section B & HumanOS
 
-Here are some ideas to get you started:
+Practicing DSA topics like DP, Graphs, Trees, and Mathematics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+⚒️ Tech Stack
+Languages
+
+
+
+
+
+
+
+
+Frontend
+
+
+
+
+
+
+Backend
+
+
+
+
+Database
+
+Tools
+
+
+Coding Profiles
+LeetCode
+
+🔗 https://leetcode.com/u/cipherstrom01/
+
+CodeChef
+
+🔗 https://www.codechef.com/users/foxiey
+
+
 ![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrsrivas01&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsrivas01&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=mrsrivas01&theme=tokyonight)
 
--->
+
+🌐 Connect With Me
+
+📧 Email: mayankrajsrivastava09@gamil.com
