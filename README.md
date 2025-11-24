@@ -52,7 +52,7 @@ Practicing DSA topics like DP, Graphs, Trees, and Mathematics
 ![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 
-⭐ 📱 Coding Profiles
+#⭐ 📱 Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/cipherstrom01/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/foxiy)
 
@@ -61,9 +61,6 @@ Practicing DSA topics like DP, Graphs, Trees, and Mathematics
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammras&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=iammras&theme=tokyonight)
 
-![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-yellow?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 
 
 🌐 Connect With Me
