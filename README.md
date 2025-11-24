@@ -1,6 +1,11 @@
 <h1 align="center">🔥 Welcome to My GitHub — IAMMRAS 🔥</h1>
 
 <p align="center">
+  <img src="https://i.gifer.com/origin/43/43555b4c4b0f22e1cba4f6ffba7d5c86.gif" width="200" />
+</p>
+
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/fire.gif" width="200">
 </p>
 
@@ -106,28 +111,6 @@ Goal: Become a strong competitive programmer and a full-stack + ML developer.
   <img src="https://github-readme-stats.vercel.app/api?username=iammras&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammras&layout=compact&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=iammras&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iammras/iammras/output/github-contribution-grid-snake.svg"/>
-</p>
-
-
----
-
-## ⚡ 3D Contribution Chart  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raihaninfo/raihaninfo/main/profile-3d-contrib/profile-night-view.svg" width="700">
-</p>
-
----
-
-## 🚀 Animated Rocket  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/rocket.gif" width="120">
 </p>
 
 ---
