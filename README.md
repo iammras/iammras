@@ -15,7 +15,7 @@ Real-time apps using Socket.IO
 
 Machine Learning with Python
 
-Working on long-term projects like Section B & HumanOS
+Working on long-term projects like Section B 
 
 Practicing DSA topics like DP, Graphs, Trees, and Mathematics
 
@@ -53,12 +53,12 @@ LeetCode
 
 CodeChef
 
-🔗 https://www.codechef.com/users/foxiey
+🔗 https://www.codechef.com/users/foxiy
 
 
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrsrivas01&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsrivas01&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=mrsrivas01&theme=tokyonight)
+![IAMMRAS GitHub Stats](https://github-readme-stats.vercel.app/api?username=iammras&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammras01&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=iammras1&theme=tokyonight)
 
 
 🌐 Connect With Me
