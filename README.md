@@ -89,15 +89,6 @@ My goal: Become a powerful **full-stack + ML developer** and a **strong competit
 </p>
 
 ---
-### 🏅 GSSoC 2024 Badges
-
-<p align="left">
-  <img src="https://img.icons8.com/color/96/open-source.png" width="80" alt="GSSoC Contributor"/>
-  <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/96/external-award-achievements-flatart-icons-lineal-color-flatarticons.png" width="80" alt="GSSoC 2024"/>
-  <img src="https://img.icons8.com/color/96/prize.png" width="80" alt="GSSoC Extended"/>
-  <img src="https://img.icons8.com/color/96/source-code.png" width="80" alt="GSSoC Open Source"/>
-</p>
-
 
 ## 📊 GitHub Stats  
 <p align="center">
