@@ -89,14 +89,13 @@ My goal: Become a powerful **full-stack + ML developer** and a **strong competit
 </p>
 
 ---
-
 ### 🏅 GSSoC 2024 Badges
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/Mentorship-Program/master/assets/badges/gssoc2024/badge1.png" width="110"/>
-  <img src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/Mentorship-Program/master/assets/badges/gssoc2024/badge2.png" width="110"/>
-  <img src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/Mentorship-Program/master/assets/badges/gssoc2024/badge3.png" width="110"/>
-  <img src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/Mentorship-Program/master/assets/badges/gssoc2024/badge4.png" width="110"/>
+  <img src="https://cdn.jsdelivr.net/gh/GirlScriptSummerOfCode/Mentorship-Program@master/assets/badges/gssoc2024/badge1.png" width="110"/>
+  <img src="https://cdn.jsdelivr.net/gh/GirlScriptSummerOfCode/Mentorship-Program@master/assets/badges/gssoc2024/badge2.png" width="110"/>
+  <img src="https://cdn.jsdelivr.net/gh/GirlScriptSummerOfCode/Mentorship-Program@master/assets/badges/gssoc2024/badge3.png" width="110"/>
+  <img src="https://cdn.jsdelivr.net/gh/GirlScriptSummerOfCode/Mentorship-Program@master/assets/badges/gssoc2024/badge4.png" width="110"/>
 </p>
 
 
