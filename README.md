@@ -91,12 +91,11 @@ My goal: Become a powerful **full-stack + ML developer** and a **strong competit
 ---
 ### 🏅 GSSoC 2024 Badges
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/GirlScriptSummerOfCode/Mentorship-Program@master/assets/badges/gssoc2024/badge1.png" width="110"/>
-  <img src="https://cdn.jsdelivr.net/gh/GirlScriptSummerOfCode/Mentorship-Program@master/assets/badges/gssoc2024/badge2.png" width="110"/>
-  <img src="https://cdn.jsdelivr.net/gh/GirlScriptSummerOfCode/Mentorship-Program@master/assets/badges/gssoc2024/badge3.png" width="110"/>
-  <img src="https://cdn.jsdelivr.net/gh/GirlScriptSummerOfCode/Mentorship-Program@master/assets/badges/gssoc2024/badge4.png" width="110"/>
-</p>
+![GSSoC 2024](https://img.shields.io/badge/GSSoC-2024-orange?style=for-the-badge&logo=github)
+![GSSoC Contributor](https://img.shields.io/badge/GSSoC-Contributor-blue?style=for-the-badge)
+![GSSoC Extended](https://img.shields.io/badge/GSSoC-Extended-ff69b4?style=for-the-badge)
+![GSSoC Open Source](https://img.shields.io/badge/GSSoC-Open%20Source-green?style=for-the-badge)
+
 
 
 ## 📊 GitHub Stats  
