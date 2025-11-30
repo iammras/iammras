@@ -90,6 +90,16 @@ My goal: Become a powerful **full-stack + ML developer** and a **strong competit
 
 ---
 
+### 🏅 GSSoC 2024 Badges
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/Mentorship-Program/master/assets/badges/gssoc2024/badge1.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/Mentorship-Program/master/assets/badges/gssoc2024/badge2.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/Mentorship-Program/master/assets/badges/gssoc2024/badge3.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/Mentorship-Program/master/assets/badges/gssoc2024/badge4.png" width="110"/>
+</p>
+
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iammras&show_icons=true&theme=tokyonight" />
